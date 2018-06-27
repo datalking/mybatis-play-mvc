@@ -1,5 +1,7 @@
 # mybatis-play-mvc   
->play-mvc integration for mybatis 3. forked from [mybatis/spring]https://github.com/mybatis/spring).    
+>play-mvc integration for mybatis 3.   
+
+forked from [mybatis/spring]https://github.com/mybatis/spring).    
 
 ## target
 - easy integration for play-mvc & mybatis
